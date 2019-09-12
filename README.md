@@ -2,4 +2,4 @@
 Meet Patel,
 Dominick DiLeo,
 Chowdhury Mobin,
-Ivana Lanzani,
+Ivana Lanzani.
