@@ -1,2 +1,5 @@
 # Project - A1
-# Quinary
+Meet Patel
+Dominick DiLeo
+Chowdhury Mobin
+Ivana Lanzani
